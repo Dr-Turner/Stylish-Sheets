@@ -1,0 +1,9 @@
+@-moz-document url-prefix("https://outlook.live.com/owa/") {
+#primaryContainer > div:nth-child(7){
+	right: 0px !important;
+}
+
+._n_h{
+	display: none !important;	
+}
+}
